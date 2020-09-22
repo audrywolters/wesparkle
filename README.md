@@ -61,6 +61,3 @@ Before you get started, make sure you have the following software installed on y
 
 ## Acknowledgement
 Thanks to our clients at WeSparkle, Michelle and Rachel. Thanks also to [Prime Digital Academy](www.primeacademy.io) who equipped and helped us to make this application a reality, as well as the members of our cohort, Paxos, for their support.
-
-## Support
-If you have suggestions or issues, please email us at [email@gmail.com](www.google.com)
